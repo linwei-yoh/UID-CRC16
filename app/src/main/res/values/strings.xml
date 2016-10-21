@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UID-database</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="updata_Setting">添加</string>
+    <string name="inputtitlt">序列号</string>
+    <string name="inputhint">输入序列号</string>
+    <string name="outputtitle">结果</string>
+    <string name="outputhint">解密结果</string>
+    <string name="btncal">解密</string>
+</resources>
